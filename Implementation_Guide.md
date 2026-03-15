@@ -2,7 +2,7 @@
 <img src="images/neara-banner.png" width="100%" alt="Neara Engineering Banner"/>
 </p>
 
-# 02 Implementation Guide: The Physics-to-Finance Workflow
+# Implementation Guide: The Physics-to-Finance Workflow
 
 ## Preparing the Neara Environment & Object Workflow
 
@@ -270,8 +270,6 @@ geo_query(
   80 * unit("ft")
 )[0]
 ```
-<Stopped here>
-
 
 #### 4. Importing the GIS Asset Link Id (`dt_task_2_pole_ids.pole_id`) to a field in Poles (`u_pole_id`)
 
