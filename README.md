@@ -47,7 +47,7 @@ The final stage merges the physical risk modifiers back into the financial frame
 
 ## 📊 Summary of Pilot Results (N=1000)
 
-Detailed calculations are available in **`/results/Analysis-Results.xlsx`**.
+Detailed calculations are available in **[Analysis-Results.xlsx](results/Analysis-Results.xlsx)**. 
 
 | Metric | Neara Optimized (28 Poles) | Age-Based Heuristic (Oldest 28) |
 | --- | --- | --- |
@@ -58,6 +58,7 @@ Detailed calculations are available in **`/results/Analysis-Results.xlsx`**.
 ### 📈 Enterprise Efficiency Delta
 
 By scaling these results to the 100,000-pole fleet, the Neara-optimized strategy is projected to create **$16,543,353 in additional net value** compared to the current age-based replacement program.
+To see the total Annual Enterprise ROI estimated for Oncor by using Neara please see **[Neara Pole Analysis.pptx](docs/Neara%20Pole%20Analysis.pptx)**
 
 ---
 
