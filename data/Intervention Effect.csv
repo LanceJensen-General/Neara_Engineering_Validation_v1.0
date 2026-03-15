@@ -1,0 +1,4 @@
+Zone,Proportional Reduction In Probability Of Failure
+urban,0.90
+rural,0.80
+remote,0.70

@@ -1,0 +1,10 @@
+Mitigation Key,Pole Type,Zone,Cost Of Mitigation ($)
+wood-urban,wood,urban,5000.00
+wood-rural,wood,rural,6000.00
+wood-remote,wood,remote,8000.00
+steel-urban,steel,urban,9000.00
+steel-rural,steel,rural,11000.00
+steel-remote,steel,remote,14000.00
+concrete-urban,concrete,urban,12000.00
+concrete-rural,concrete,rural,15000.00
+concrete-remote,concrete,remote,20000.00
