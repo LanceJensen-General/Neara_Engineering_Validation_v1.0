@@ -46,8 +46,8 @@ Detailed calculations are available in **`/results/Analysis-Results.xlsx`**.
 | **Net Mitigation Cost** | **$152,000.00** | $194,000.00 |
 | **Net Enterprise Value** | **$184,458.10** | $19,024.57 |
 
-**Conclusion:** The Neara-optimized strategy delivered **9.7x more net value** while requiring **21% less capital expenditure** than the traditional age-based approach.
-
+### 🚀 Enterprise Efficiency Delta
+By scaling these results to the 100,000-pole fleet, the Neara-optimized strategy is projected to create **$16,543,353 in additional net value** compared to the current age-based replacement program.
 ---
 
 ## 🚀 Scaling & Implementation
