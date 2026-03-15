@@ -10,8 +10,8 @@ This repository provides the engineering framework, raw data, and validated resu
 
 | Directory | Description |
 | :--- | :--- |
-| `01_Strategy_and_Approach.md` | Strategic overview of Physics-Based vs. Age-Based management. |
-| `02_Implementation_Guide.md` | Scaling workflow featuring the SQL and Excel Engineering Cookbooks. |
+| `Strategy_and_Approach.md` | Strategic overview of Physics-Based vs. Age-Based management. |
+| `Implementation_Guide.md` | Scaling workflow featuring the SQL and Excel Engineering Cookbooks. |
 | `/data` | Raw GIS (GeoJSON) and Asset (CSV) inputs used for the Digital Twin. |
 | `/docs` | Methodology whitepapers and **Neara Pole Analysis.pptx** (Executive Summary). |
 | `/results` | Validated structural reports and **Analysis-Results.xlsx** (ROI Model). |
